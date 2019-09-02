@@ -12,7 +12,7 @@ The statistics show that 35% of Amazon's revenue comes from the usage of recomme
 
 # Types of Recommendation System :
 1)Content Based Recommendation System <br>
-2)Collaborative Filtering Recommendation System <br>
+2)Collaborative Filtering Based Recommendation System <br>
 3)Hybrid Recommendation System <br>
 
 # How Does Recommendation Systems Work?
@@ -20,3 +20,5 @@ Shopping has been, is and will remain a necessity for humanity. It's not a long 
 
 With the usage of algorithms and data, recommendation engines filter and recommend the most relevant products to a specific user. As they say, it's like an automated shop assistant. When asking for something, it also suggests another one that you may be interested in.
 Developing product recommendation algorithm models is a research area that grows hour by hour.
+
+# Recommendation engine processes data in four phases
