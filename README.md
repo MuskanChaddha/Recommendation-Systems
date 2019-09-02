@@ -22,3 +22,5 @@ With the usage of algorithms and data, recommendation engines filter and recomme
 Developing product recommendation algorithm models is a research area that grows hour by hour.
 
 # Recommendation engine processes data in four phases
+![collecting-data-1024x834](https://user-images.githubusercontent.com/42913961/64120795-cdb03880-cdba-11e9-844b-1a4b45c27d14.png)
+
