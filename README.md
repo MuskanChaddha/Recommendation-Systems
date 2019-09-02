@@ -58,3 +58,4 @@ Cluster analysis is intended for smaller groups of cases. It tries to group more
 · Collaborative
 It makes predictions conditioned with the tastes and preferences of the customer and allows you to make product attributes. The essence of collaborative filtering is the following; two users who have liked the same item before will like the one in the future.
 
+![collecting-data-1024x834](https://user-images.githubusercontent.com/42913961/64120852-f6383280-cdba-11e9-9265-1d386c3d3945.png)
