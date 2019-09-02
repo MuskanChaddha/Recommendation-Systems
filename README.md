@@ -11,9 +11,9 @@ A vivid example of recommendation engine usage is by Amazon; with its "Customer 
 The statistics show that 35% of Amazon's revenue comes from the usage of recommendation engines.
 
 # Types of Recommendation System :
-1)Content Based Recommendation System
-2)Collaborative Filtering Recommendation System
-3)Hybrid Recommendation System
+1)Content Based Recommendation System <br>
+2)Collaborative Filtering Recommendation System <br>
+3)Hybrid Recommendation System <br>
 
 # How Does Recommendation Systems Work?
 Shopping has been, is and will remain a necessity for humanity. It's not a long time since we asked our friends to recommend this or that product. Hence, it's the essence of human beings to buy items recommended by our friends, whom we trust more. The digital age has taken into consideration this ancient habit. Therefore, any online shop you visit today, you may see some recommendation engine used.
